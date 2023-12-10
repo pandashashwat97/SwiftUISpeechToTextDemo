@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftuispeechtotext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pandashashwat97/SwiftUISpeechToText.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "437a03ee4f80f9d3b9d2e2b1530b1849979edefc"
+      }
+    }
+  ],
+  "version" : 2
+}
